@@ -1,0 +1,20 @@
+{
+  "name": "dry-cli",
+  "version": "0.1.0",
+  "bin": {
+    "dry": "bin/dry.js"
+  },
+  "description": "Don't repeat yourself.😬",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "fix777 <wangguoguo.lan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.11.0",
+    "fs-extra": "^4.0.2",
+    "inquirer": "^3.3.0"
+  }
+}
